@@ -63,7 +63,7 @@ I work with **[Claude Code](https://claude.com/claude-code)** as an everyday eng
 
 | Company | Role | Period | Highlights |
 |---|---|---|---|
-| **Ravatar** | Software Engineer | 2024 – now | Real-time AI avatar backend (Node.js / Node-RED), LLM + TTS/STT integrations, Pixel Streaming orchestrator shipped as a Windows `.exe` |
+| **Ravatar** | Software Engineer | 2024 – now | Real-time AI avatar backend (Node.js / Node-RED), LLM + TTS/STT integrations, **avatar response time 13 s → 5 s**, Pixel Streaming orchestrator shipped as a Windows `.exe` |
 | **Euristiq** | Software Engineer | 2021 – 2023 | NestJS + TypeORM + PostgreSQL on AWS, DDD; real-estate platform and school healthcare platform |
 | **Axles** | Software Engineer | 2020 – 2021 | Full-stack (React + Express) for a home-design configurator and a wine e-commerce platform |
 | **Integer** | Software Engineer | 2019 – 2020 | Shopify CRM and stores (React, Polaris, Liquid), hospital platform (Vue) |
@@ -85,6 +85,7 @@ A Node.js server, shipped as a **standalone Windows executable**, that launches 
 
 ### 🗣️ Real-time voice pipeline (STT → LLM → TTS)
 The voice loop that lets users **talk to an AI avatar** in real time.
+- ⚡ **Cut end-to-end response time from ~13 s to ~5 s (2.6× faster)** by rewriting the inherited pipeline code
 - **Speech-to-text** with Whisper, then an LLM response, then **text-to-speech** with ElevenLabs or Google TTS
 - Supports **every language and voice** that ElevenLabs and Google TTS offer
 - Real-time delivery to the avatar over **WebSockets / streaming**

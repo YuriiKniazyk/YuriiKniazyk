@@ -73,6 +73,14 @@ I work with **[Claude Code](https://claude.com/claude-code)** as an everyday eng
 
 > Most of my work lives in private, production codebases. Here is what I built, without the code.
 
+### 🌐 Open source: [realtime-voice-ai](https://github.com/YuriiKniazyk/realtime-voice-ai)
+A public demo of the same ideas I use in production: a voice assistant you can talk to in the browser.
+- **Whisper → Claude / OpenAI → ElevenLabs**, streamed **sentence by sentence** over WebSockets
+- Parallel TTS with in-order playback, **barge-in** (interrupt the assistant by talking) and per-stage **latency metrics**
+- Tested with Vitest, with CI and Docker
+
+`NestJS` · `TypeScript` · `WebSockets` · `Claude` · `OpenAI` · `Whisper` · `ElevenLabs` · `Docker`
+
 ### 🎮 Pixel Streaming orchestrator
 A Node.js server, shipped as a **standalone Windows executable**, that launches and manages **Unreal Engine Pixel Streaming** for real-time AI avatars.
 - Orchestrates the Node.js and Unreal Engine processes behind the stream

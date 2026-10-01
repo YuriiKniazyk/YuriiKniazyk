@@ -113,7 +113,7 @@ A platform for renting real estate, document management and tenant communication
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YuriiKniazyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiKniazyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiKniazyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,dockerfile&exclude_repo=Hospital,Cookbook,Market,Network_SQL-React,Table_Reservation_API,School,BookingTable,Indeema,Velox,Compliment,jetbrain-activation-code" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YuriiKniazyk&theme=tokyonight&hide_border=true" />

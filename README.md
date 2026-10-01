@@ -69,6 +69,33 @@ I work with **[Claude Code](https://claude.com/claude-code)** as an everyday eng
 | **Integer** | Software Engineer | 2019 – 2020 | Shopify CRM and stores (React, Polaris, Liquid), hospital platform (Vue) |
 | **IZZISoft** | Node.js Developer | 2019 | Tourism booking backend (Express, Sequelize, MySQL) |
 
+## 🚀 Selected work
+
+> Most of my work lives in private, production codebases. Here is what I built, without the code.
+
+### 🎮 Pixel Streaming orchestrator
+A Node.js server, shipped as a **standalone Windows executable**, that launches and manages **Unreal Engine Pixel Streaming** for real-time AI avatars.
+- Orchestrates the Node.js and Unreal Engine processes behind the stream
+- Runs system-level checks: **GPU memory validation** and **SSL certificate validation, generation and auto-install**
+- Installs and configures itself, so it runs on a fresh machine without manual setup
+
+`Node.js` · `Unreal Engine Pixel Streaming` · `Windows .exe packaging` · `Process orchestration`
+
+### 🗣️ Real-time voice pipeline (STT → LLM → TTS)
+The voice loop that lets users **talk to an AI avatar** in real time.
+- **Speech-to-text** with Whisper, then an LLM response, then **text-to-speech** with ElevenLabs
+- Real-time delivery to the avatar over **WebSockets / streaming**
+- Works with several LLM providers: **OpenAI, Gemini and Claude**
+
+`Node.js` · `Node-RED` · `WebSockets` · `ElevenLabs` · `Whisper` · `OpenAI` · `Gemini` · `Claude`
+
+### 🏢 Real-estate platform
+A platform for renting real estate, document management and tenant communication.
+- Backend built with **NestJS + DDD**, TypeORM and PostgreSQL on **AWS**
+- Led code reviews, Swagger docs, and unit and integration tests
+
+`NestJS` · `TypeORM` · `PostgreSQL` · `AWS` · `Docker` · `DDD`
+
 ## 📊 GitHub stats
 
 <p align="center">

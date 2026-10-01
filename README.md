@@ -78,20 +78,24 @@ A Node.js server, shipped as a **standalone Windows executable**, that launches 
 - Orchestrates the Node.js and Unreal Engine processes behind the stream
 - Runs system-level checks: **GPU memory validation** and **SSL certificate validation, generation and auto-install**
 - Installs and configures itself, so it runs on a fresh machine without manual setup
+- **Up to 100 concurrent stream ports per host** by default. Real capacity scales with the GPU and VM
+- Runs both in **auto-scaling cloud** deployments and **on-premise at 5+ client sites**
 
 `Node.js` · `Unreal Engine Pixel Streaming` · `Windows .exe packaging` · `Process orchestration`
 
 ### 🗣️ Real-time voice pipeline (STT → LLM → TTS)
 The voice loop that lets users **talk to an AI avatar** in real time.
-- **Speech-to-text** with Whisper, then an LLM response, then **text-to-speech** with ElevenLabs
+- **Speech-to-text** with Whisper, then an LLM response, then **text-to-speech** with ElevenLabs or Google TTS
+- Supports **every language and voice** that ElevenLabs and Google TTS offer
 - Real-time delivery to the avatar over **WebSockets / streaming**
 - Works with several LLM providers: **OpenAI, Gemini and Claude**
 
-`Node.js` · `Node-RED` · `WebSockets` · `ElevenLabs` · `Whisper` · `OpenAI` · `Gemini` · `Claude`
+`Node.js` · `Node-RED` · `WebSockets` · `ElevenLabs` · `Google TTS` · `Whisper` · `OpenAI` · `Gemini` · `Claude`
 
 ### 🏢 Real-estate platform
 A platform for renting real estate, document management and tenant communication.
 - Backend built with **NestJS + DDD**, TypeORM and PostgreSQL on **AWS**
+- Worked side by side with the solution architect. I proposed technical solutions, and we shaped the design together
 - Led code reviews, Swagger docs, and unit and integration tests
 
 `NestJS` · `TypeORM` · `PostgreSQL` · `AWS` · `Docker` · `DDD`

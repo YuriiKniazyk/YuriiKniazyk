@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Yurii%20Kniazyk&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20Real-time%20%C2%B7%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Yurii%20Kniazyk&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yurii+%F0%9F%91%8B;Backend+engineer+%E2%80%94+Node.js+%26+NestJS;Real-time+AI+avatars+%26+voice+pipelines;Shipping+faster+with+AI+pair-programming+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About me
 
-Software engineer with **5+ years** of hands-on experience in **Node.js** and **real-time systems**.
-I build production-grade backends, integrate **AI/LLM** services, and make things fast and reliable.
+Backend software engineer with **5+ years** in **Node.js**, specializing in **AI integrations** for production products.
+I build real-time backends, integrate **LLMs and voice AI**, and make things fast and reliable.
 
 - 🔭 Currently at **Ravatar**, building the backend for **real-time AI avatars**: LLMs, voice, and Unreal Engine Pixel Streaming
 - 🧠 Integrating **OpenAI, Gemini and Claude**, plus **TTS/STT** pipelines with ElevenLabs and Whisper

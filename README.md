@@ -64,7 +64,7 @@ I work with **[Claude Code](https://claude.com/claude-code)** as an everyday eng
 | Company | Role | Period | Highlights |
 |---|---|---|---|
 | **Ravatar** | Software Engineer | 2024 – now | Real-time AI avatar backend (Node.js / Node-RED), LLM + TTS/STT integrations, **avatar response time 13 s → 5 s**, Pixel Streaming orchestrator shipped as a Windows `.exe` |
-| **Euristiq** | Software Engineer | 2021 – 2023 | NestJS + TypeORM + PostgreSQL on AWS, DDD; real-estate platform and school healthcare platform |
+| **Euristiq** | Software Engineer | 2021 – 2024 | NestJS + TypeORM + PostgreSQL on AWS, DDD; real-estate platform and school healthcare platform |
 | **Axles** | Software Engineer | 2020 – 2021 | Full-stack (React + Express) for a home-design configurator and a wine e-commerce platform |
 | **Integer** | Software Engineer | 2019 – 2020 | Shopify CRM and stores (React, Polaris, Liquid), hospital platform (Vue) |
 | **IZZISoft** | Node.js Developer | 2019 | Tourism booking backend (Express, Sequelize, MySQL) |

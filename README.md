@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yurii+%F0%9F%91%8B;Backend+engineer+%E2%80%94+Node.js+%26+NestJS;Real-time+AI+avatars+%26+voice+pipelines;Shipping+faster+with+AI+pair-programming+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/yurii-kniazyk-8581bb147/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yurii-kniazyk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:y.kniazyk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=YuriiKniazyk&style=for-the-badge&color=302b63&label=Profile+views" alt="Profile views" />
 </p>
